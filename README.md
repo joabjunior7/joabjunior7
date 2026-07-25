@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Joab Júnior</h1>
+My Social Medias!
+
+ I'm still stupid, I have a lot to learn... ✍️(◔◡◔)
+ I really like a lot of things, I'm always creating something new ...
+
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 🔭 I’m currently studying **Computer science**
-
 - 🌱 I’m currently learning **Spring Boot, Angular, ...**
-
 - 👨‍💻 All of my projects are available at [https://github.com/joabjunior7](https://github.com/joabjunior7)
-
 - 💬 Ask me about **Web, Tech, Gaming**
-
 - 📫 How to reach me **j.junior_vip@outlook.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/joabjr/](https://www.linkedin.com/in/joabjr/)
-
 - ⚡ Fun fact **RXN0b3UgZW0gYnVzY2EgZGUgdW1hIG9wb3J0dW5pZGFkZSBlbSB1bWEgZW1wcmVzYSBkZXNlbnZvbHZpbWVudG8gZGUgc29mdHdhcmUu**
 
 <div align="center">
