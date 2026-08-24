@@ -46,8 +46,8 @@
   <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go (Golang)" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="40" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" height="40" />
-  <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" title="n8n - Automação de Workflows" height="40" />
-  <img src="https://api.iconify.design/logos:whatsapp-icon.svg" alt="Evolution API" title="Evolution API - WhatsApp API Gateway" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/joabjunior7/joabjunior7/main/workflows/icons/n8n.svg" alt="n8n" title="n8n - Automação de Workflows" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/joabjunior7/joabjunior7/main/workflows/icons/evolution-api.svg" alt="Evolution API" title="Evolution API - WhatsApp API Gateway" height="40" width="40" />
 </p>
 
 #### 🗄️ Bancos de Dados & Cloud
@@ -74,10 +74,8 @@
 
 ---
 
-### 📊 Atividade & Estatísticas do GitHub
+### 📊 Atividade do GitHub
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joabjunior7&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak de Commits" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joabjunior7&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=7ee787&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
@@ -85,5 +83,5 @@
 
 ### 🐍 Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joabjunior7/joabjunior7/main/workflows/github-user-contribution.svg?palette=github-dark" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/joabjunior7/joabjunior7/main/workflows/github-user-contribution.svg" alt="Snake animation" />
 </div>
