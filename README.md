@@ -1,48 +1,92 @@
-<h1 align="center">Hi 👋, I'm Joab Júnior</h1>
-My Social Medias!
-
- I'm still stupid, I have a lot to learn... ✍️(◔◡◔)
- I really like a lot of things, I'm always creating something new ...
-
-<h3 align="center">A passionate full stack developer from Brazil</h3>
-
-- 🔭 I’m currently studying **Computer science**
-- 🌱 I’m currently learning **Spring Boot, Angular, ...**
-- 👨‍💻 All of my projects are available at [https://github.com/joabjunior7](https://github.com/joabjunior7)
-- 💬 Ask me about **Web, Tech, Gaming**
-- 📫 How to reach me **j.junior_vip@outlook.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/joabjr/](https://www.linkedin.com/in/joabjr/)
-- ⚡ Fun fact **RXN0b3UgZW0gYnVzY2EgZGUgdW1hIG9wb3J0dW5pZGFkZSBlbSB1bWEgZW1wcmVzYSBkZXNlbnZvbHZpbWVudG8gZGUgc29mdHdhcmUu**
-
 <div align="center">
-<h3>Connect with me:</h3>
-<p><a href="https://linkedin.com/in/joabjr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joabjr" height="30" width="40" /></a></p>
+  <h1>Olá, eu sou o Joab Júnior 👋</h1>
+  <p><strong>Desenvolvedor Full Stack</strong></p>
+  <p>Focado em criar soluções eficientes, código limpo e arquitetura bem estruturada.</p>
+
+  <p>
+    <a href="https://linkedin.com/in/joabjr" target="_blank" title="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn de Joab Júnior" />
+    </a>
+    <a href="mailto:j.junior_vip@outlook.com" title="Enviar E-mail">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" title="E-mail: j.junior_vip@outlook.com" />
+    </a>
+  </p>
 </div>
 
-<div align="center">
-<h3>Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<p>
+---
+
+### 🚀 Sobre Mim
+- 🎓 Cursando **Ciência da Computação**.
+- 📍 **Pernambuco, Brasil**.
+- 💡 Apaixonado por **desenvolvimento Full Stack**, arquitetura de software, automações e integrações de APIs.
+- 🎯 Focado em boas práticas, código limpo e aprendizado contínuo.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" height="40" />
 </p>
+
+#### ⚙️ Backend & Automação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go (Golang)" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" height="40" />
+  <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" title="n8n" height="40" />
+  <img src="https://img.shields.io/badge/Evolution_API-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evolution API" title="Evolution API - WhatsApp API Gateway" height="40" />
+</p>
+
+#### 🗄️ Bancos de Dados & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services (AWS)" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" height="40" />
+</p>
+
+#### 🧰 IDEs & Editores
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" height="40" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="40" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse IDE" height="40" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joabjunior7&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabjunior7&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joabjunior7&theme=tokyonight" alt="Streak de Commits" />
+</div>
 
-<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joabjunior7&show_icons=true&theme=dark&locale=en&layout=compact" alt="joabjunior7" /></p>
+---
 
-<p>&nbsp;<img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=joabjunior7&show_icons=true&theme=dark&locale=en" alt="joabjunior7" /></p>
-
-
-<div align="center"> 
-   
- ![Snake animation](https://github.com/joabjunior7/joabjunior7/blob/main/workflows/github-user-contribution.svg?palette=github-dark)
-    
+### 🐍 Contribuições
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joabjunior7/joabjunior7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
